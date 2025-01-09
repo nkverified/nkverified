@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MAVI</h1>
+<h1 align="center">Hi 👋, I'm Nihal</h1>
 <h3 align="center">Everything just for Fun💀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaviMods&label=Profile%20views&color=0e75b6&style=flat" alt="mavimods" /> </p>
